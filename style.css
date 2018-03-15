@@ -1,0 +1,7 @@
+body.custom-background {
+    background-image: url('/images/blog-background.jpg');
+    background-repeat: repeat;
+    background-position: top left;
+    background-attachment: scroll;
+}
+
